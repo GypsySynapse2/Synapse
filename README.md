@@ -1,2 +1,2 @@
 # Synapse
-Synapse X cracked 2023, too easy
+A team of 6 people worked together for 12 hours and we've done it, we successfully tricked the synapse api into thinking we had a correct login and bypassed the security checks to run in offline mode, now with this we have branched it off as a crack free for all to use, originally it was for only our team our team use for our game development and anticheat testing, but now we've decided to release it to the public due to it being an amazing project that everyone should be able to use
